@@ -1,7 +1,7 @@
 # Dicoding-Collection-Dashboard-
-Setup Environment
+# Setup Environment
 pip3 install numpy pandas scipy matplotlib seaborn jupyter
 
 
-Run Steamlit app
+# Run Steamlit app
 streamlit run dashboard.py
